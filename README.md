@@ -1,8 +1,8 @@
-# Hackathon Template Github
+# Data Science Workshop NEIU (2025)
 
-**2024-11-19**  **-** **2024-11-20** 
+**2025-01-24**  **-** **2025-01-25** 
 
-Github Pages based template for hackathons
+Practice repository for the workshop.
 
 
 ## Instructors and Mentors
@@ -15,7 +15,7 @@ Please list your instructors and mentors below!
 
 ## Schedule
 
-## 2024-11-19
+## 2025-01-25
 
 | Time                | Topic                     | Presenter        |
 | :---:               |    :----:                 |    :---:         |
